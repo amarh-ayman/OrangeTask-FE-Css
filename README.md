@@ -122,4 +122,4 @@ Thank you for reviewing my submission!
 
 Below is the Img submission
 
-![Burger Image](images/burgerimg.png)
+![Burger Image](/images/burgerImg.png)
