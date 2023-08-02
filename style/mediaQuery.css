@@ -1,0 +1,25 @@
+/* Media Queries for Responsiveness */
+
+@media (max-width: 768px) {
+  .sandwich {
+    height: 236px;
+    width: 236px;
+  }
+  .sandwich .layer:not(.bottom_bun) {
+    margin: 3px 0;
+  }
+  .sandwich:hover .layer {
+    transform: scale(1.05) !important;
+    margin: 5px 0;
+  }
+  .sandwich .layer.patty::before {
+    left: 10px;
+  }
+}
+/* For viewport widths up to 480px */
+@media (max-width: 480px) {
+  .sandwich {
+    height: 280px;
+    width: 257px;
+  }
+}
