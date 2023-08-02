@@ -55,7 +55,7 @@ Good luck, and we look forward to reviewing your submission!
 
 # Final Result:
 
-To see the final submission, [check out the GitHub](LINK_TO_EXPECTED_RESULT) repository containing the HTML and CSS code for the burger design and responsiveness.
+To see the final submission, [check out the OrangeTask-FE-Css]([LINK_TO_EXPECTED_RESULT](https://orange-task-fe-css.vercel.app/)) repository containing the HTML and CSS code for the burger design and responsiveness.
 
 README.md
 
